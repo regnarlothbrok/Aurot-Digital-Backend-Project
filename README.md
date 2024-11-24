@@ -70,26 +70,3 @@ This is an advanced and interactive AI-powered mock interview platform designed 
 5. **Review Recent Interviews**
    - Access your most recent interviews directly from the home page for quick review and continued improvement
 
-## Contributing
-Contributions are welcome! To contribute to this project:
-
-1. Fork this repository
-2. Create a new branch for your feature:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Submit a pull request
-
-## Support
-Show your support by ⭐️ the project!!
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
